@@ -1,0 +1,534 @@
+[
+    {
+        "playerId": 1828,
+        "percentage": 10.28,
+        "stats": {
+            "APP": 7,
+            "MP": 626,
+            "GS": 1,
+            "AS": 1,
+            "CS": 2,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 1,
+            "INT": 6,
+            "TCK": 12,
+            "KP": 2,
+            "SOT": 2
+        }
+    },
+    {
+        "playerId": 1844,
+        "percentage": 22.17,
+        "stats": {
+            "APP": 8,
+            "MP": 740,
+            "GS": 8,
+            "AS": 4,
+            "CS": 1,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 7,
+            "INT": 0,
+            "TCK": 11,
+            "KP": 25,
+            "SOT": 18
+        }
+    },
+    {
+        "playerId": 1987,
+        "percentage": 39.6,
+        "stats": {
+            "APP": 4,
+            "MP": 390,
+            "GS": 0,
+            "AS": 0,
+            "CS": 2,
+            "SV": 18,
+            "THC": 6,
+            "AKS": 5,
+            "BL": 0,
+            "INT": 0,
+            "TCK": 0,
+            "KP": 0,
+            "SOT": 0
+        }
+    },
+    {
+        "playerId": 2241,
+        "percentage": 29.02,
+        "stats": {
+            "APP": 8,
+            "MP": 616,
+            "GS": 7,
+            "AS": 1,
+            "CS": 0,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 2,
+            "INT": 3,
+            "TCK": 14,
+            "KP": 8,
+            "SOT": 13
+        }
+    },
+    {
+        "playerId": 1839,
+        "percentage": 15.78,
+        "stats": {
+            "APP": 8,
+            "MP": 810,
+            "GS": 0,
+            "AS": 0,
+            "CS": 2,
+            "SV": 20,
+            "THC": 5,
+            "AKS": 1,
+            "BL": 0,
+            "INT": 0,
+            "TCK": 0,
+            "KP": 0,
+            "SOT": 0
+        }
+    },
+    {
+        "playerId": 2280,
+        "percentage": 29.8,
+        "stats": {
+            "APP": 8,
+            "MP": 698,
+            "GS": 10,
+            "AS": 4,
+            "CS": 1,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 5,
+            "INT": 0,
+            "TCK": 1,
+            "KP": 18,
+            "SOT": 23
+        }
+    },
+    {
+        "playerId": 2267,
+        "percentage": 18.94,
+        "stats": {
+            "APP": 8,
+            "MP": 650,
+            "GS": 0,
+            "AS": 7,
+            "CS": 2,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 6,
+            "INT": 3,
+            "TCK": 15,
+            "KP": 17,
+            "SOT": 5
+        }
+    },
+    {
+        "playerId": 2701,
+        "percentage": 10.4,
+        "stats": {
+            "APP": 5,
+            "MP": 397,
+            "GS": 1,
+            "AS": 0,
+            "CS": 1,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 2,
+            "INT": 0,
+            "TCK": 9,
+            "KP": 11,
+            "SOT": 1
+        }
+    },
+    {
+        "playerId": 1969,
+        "percentage": 6.16,
+        "stats": {
+            "APP": 5,
+            "MP": 441,
+            "GS": 4,
+            "AS": 1,
+            "CS": 1,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 3,
+            "INT": 1,
+            "TCK": 3,
+            "KP": 9,
+            "SOT": 11
+        }
+    },
+    {
+        "playerId": 2612,
+        "percentage": 27.46,
+        "stats": {
+            "APP": 5,
+            "MP": 465,
+            "GS": 7,
+            "AS": 1,
+            "CS": 0,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 3,
+            "INT": 1,
+            "TCK": 1,
+            "KP": 6,
+            "SOT": 13
+        }
+    },
+    {
+        "playerId": 2852,
+        "percentage": 22.56,
+        "stats": {
+            "APP": 8,
+            "MP": 750,
+            "GS": 0,
+            "AS": 3,
+            "CS": 7,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 0,
+            "INT": 7,
+            "TCK": 8,
+            "KP": 5,
+            "SOT": 3
+        }
+    },
+    {
+        "playerId": 2844,
+        "percentage": 38.31,
+        "stats": {
+            "APP": 8,
+            "MP": 750,
+            "GS": 0,
+            "AS": 0,
+            "CS": 7,
+            "SV": 10,
+            "THC": 9,
+            "AKS": 9,
+            "BL": 0,
+            "INT": 0,
+            "TCK": 0,
+            "KP": 0,
+            "SOT": 0
+        }
+    },
+    {
+        "playerId": 1829,
+        "percentage": 4.34,
+        "stats": {
+            "APP": 7,
+            "MP": 660,
+            "GS": 2,
+            "AS": 0,
+            "CS": 2,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 4,
+            "INT": 5,
+            "TCK": 11,
+            "KP": 4,
+            "SOT": 4
+        }
+    },
+    {
+        "playerId": 2248,
+        "percentage": 5.27,
+        "stats": {
+            "APP": 7,
+            "MP": 660,
+            "GS": 0,
+            "AS": 0,
+            "CS": 2,
+            "SV": 15,
+            "THC": 2,
+            "AKS": 7,
+            "BL": 0,
+            "INT": 0,
+            "TCK": 0,
+            "KP": 1,
+            "SOT": 0
+        }
+    },
+    {
+        "playerId": 2571,
+        "percentage": 9.32,
+        "stats": {
+            "APP": 4,
+            "MP": 390,
+            "GS": 1,
+            "AS": 1,
+            "CS": 0,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 0,
+            "INT": 3,
+            "TCK": 1,
+            "KP": 1,
+            "SOT": 2
+        }
+    },
+    {
+        "playerId": 1976,
+        "percentage": 4.74,
+        "stats": {
+            "APP": 5,
+            "MP": 450,
+            "GS": 0,
+            "AS": 1,
+            "CS": 2,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 1,
+            "INT": 4,
+            "TCK": 5,
+            "KP": 3,
+            "SOT": 0
+        }
+    },
+    {
+        "playerId": 2139,
+        "percentage": 1.04,
+        "stats": {
+            "APP": 3,
+            "MP": 270,
+            "GS": 0,
+            "AS": 0,
+            "CS": 1,
+            "SV": 20,
+            "THC": 1,
+            "AKS": 1,
+            "BL": 0,
+            "INT": 0,
+            "TCK": 0,
+            "KP": 0,
+            "SOT": 0
+        }
+    },
+    {
+        "playerId": 2279,
+        "percentage": 10.07,
+        "stats": {
+            "APP": 8,
+            "MP": 597,
+            "GS": 6,
+            "AS": 2,
+            "CS": 1,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 5,
+            "INT": 0,
+            "TCK": 3,
+            "KP": 18,
+            "SOT": 10
+        }
+    },
+    {
+        "playerId": 2111,
+        "percentage": 3.49,
+        "stats": {
+            "APP": 4,
+            "MP": 319,
+            "GS": 0,
+            "AS": 1,
+            "CS": 0,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 0,
+            "INT": 0,
+            "TCK": 7,
+            "KP": 7,
+            "SOT": 0
+        }
+    },
+    {
+        "playerId": 1848,
+        "percentage": 9.02,
+        "stats": {
+            "APP": 7,
+            "MP": 611,
+            "GS": 1,
+            "AS": 1,
+            "CS": 0,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 0,
+            "INT": 11,
+            "TCK": 15,
+            "KP": 0,
+            "SOT": 1
+        }
+    },
+    {
+        "playerId": 2254,
+        "percentage": 11.47,
+        "stats": {
+            "APP": 7,
+            "MP": 653,
+            "GS": 6,
+            "AS": 1,
+            "CS": 1,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 5,
+            "INT": 1,
+            "TCK": 3,
+            "KP": 5,
+            "SOT": 12
+        }
+    },
+    {
+        "playerId": 2285,
+        "percentage": 14.93,
+        "stats": {
+            "APP": 8,
+            "MP": 661,
+            "GS": 0,
+            "AS": 1,
+            "CS": 4,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 1,
+            "INT": 15,
+            "TCK": 17,
+            "KP": 4,
+            "SOT": 2
+        }
+    },
+    {
+        "playerId": 2513,
+        "percentage": 3.13,
+        "stats": {
+            "APP": 5,
+            "MP": 414,
+            "GS": 4,
+            "AS": 1,
+            "CS": 1,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 3,
+            "INT": 0,
+            "TCK": 4,
+            "KP": 10,
+            "SOT": 6
+        }
+    },
+    {
+        "playerId": 2542,
+        "percentage": 1.87,
+        "stats": {
+            "APP": 5,
+            "MP": 385,
+            "GS": 3,
+            "AS": 0,
+            "CS": 0,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 4,
+            "INT": 0,
+            "TCK": 3,
+            "KP": 4,
+            "SOT": 3
+        }
+    },
+    {
+        "playerId": 2841,
+        "percentage": 15.34,
+        "stats": {
+            "APP": 8,
+            "MP": 726,
+            "GS": 0,
+            "AS": 0,
+            "CS": 5,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 3,
+            "INT": 2,
+            "TCK": 27,
+            "KP": 11,
+            "SOT": 0
+        }
+    },
+    {
+        "playerId": 2850,
+        "percentage": 10.77,
+        "stats": {
+            "APP": 8,
+            "MP": 615,
+            "GS": 1,
+            "AS": 1,
+            "CS": 3,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 7,
+            "INT": 3,
+            "TCK": 11,
+            "KP": 7,
+            "SOT": 12
+        }
+    },
+    {
+        "playerId": 2848,
+        "percentage": 5.97,
+        "stats": {
+            "APP": 8,
+            "MP": 605,
+            "GS": 5,
+            "AS": 1,
+            "CS": 2,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 2,
+            "INT": 1,
+            "TCK": 6,
+            "KP": 6,
+            "SOT": 12
+        }
+    },
+    {
+        "playerId": 2855,
+        "percentage": 18.74,
+        "stats": {
+            "APP": 6,
+            "MP": 564,
+            "GS": 2,
+            "AS": 0,
+            "CS": 4,
+            "SV": 0,
+            "THC": 0,
+            "AKS": 0,
+            "BL": 0,
+            "INT": 8,
+            "TCK": 14,
+            "KP": 10,
+            "SOT": 3
+        }
+    }
+]
